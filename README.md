@@ -1,0 +1,2 @@
+# AIPD
+all practicals
