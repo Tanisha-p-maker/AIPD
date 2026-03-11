@@ -1,2 +1,2 @@
 # AIPD
-all practicals
+All Practicals
